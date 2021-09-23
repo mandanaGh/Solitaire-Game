@@ -1,0 +1,30 @@
+C:\Users\Mandana\Desktop\CardGame Project\CardGame\CardGame Project\bin\Debug\CardGame Project.exe
+C:\Users\Mandana\Desktop\CardGame Project\CardGame\CardGame Project\bin\Debug\CardGame Project.pdb
+C:\Users\Mandana\Desktop\CardGame Project\CardGame\CardGame Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mandana\Desktop\CardGame Project\CardGame\CardGame Project\obj\x86\Debug\CardGame_Project.Properties.Resources.resources
+C:\Users\Mandana\Desktop\CardGame Project\CardGame\CardGame Project\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Mandana\Desktop\CardGame Project\CardGame\CardGame Project\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Mandana\Desktop\CardGame Project\CardGame\CardGame Project\obj\x86\Debug\CardGame Project.exe
+C:\Users\Mandana\Desktop\CardGame Project\CardGame\CardGame Project\obj\x86\Debug\CardGame Project.pdb
+C:\Users\Mandana\Desktop\CardGame Project\CardGame\CardGame Project\obj\x86\Debug\CardGame_Project.Form1.resources
+C:\Users\Mandana\Desktop\CardGame Project\CardGame\CardGame Project\obj\x86\Debug\CardGame_Project.Form2.resources
+C:\Users\Mandana\Desktop\.Net Project\CardGame Project\obj\x86\Debug\CardGame Project.exe
+C:\Users\Mandana\Desktop\.Net Project\CardGame Project\obj\x86\Debug\CardGame Project.pdb
+C:\Users\Mandana\Desktop\.Net Project\CardGame Project\bin\Debug\CardGame Project.exe
+C:\Users\Mandana\Desktop\.Net Project\CardGame Project\bin\Debug\CardGame Project.pdb
+C:\Users\Mandana\Desktop\.Net Project\CardGame Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mandana\Desktop\.Net Project\CardGame Project\obj\x86\Debug\CardGame_Project.Form1.resources
+C:\Users\Mandana\Desktop\.Net Project\CardGame Project\obj\x86\Debug\CardGame_Project.Form2.resources
+C:\Users\Mandana\Desktop\.Net Project\CardGame Project\obj\x86\Debug\CardGame_Project.Properties.Resources.resources
+C:\Users\Mandana\Desktop\.Net Project\CardGame Project\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Mandana\Desktop\.Net Project\CardGame Project\obj\x86\Debug\ResGen.write.1.tlog
+D:\Project\GameProject(Final)\CardGame Project\obj\x86\Debug\CardGame Project.exe
+D:\Project\GameProject(Final)\CardGame Project\obj\x86\Debug\CardGame Project.pdb
+D:\Project\GameProject(Final)\CardGame Project\bin\Debug\CardGame Project.exe
+D:\Project\GameProject(Final)\CardGame Project\bin\Debug\CardGame Project.pdb
+D:\Project\GameProject(Final)\CardGame Project\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\GameProject(Final)\CardGame Project\obj\x86\Debug\CardGame_Project.Form1.resources
+D:\Project\GameProject(Final)\CardGame Project\obj\x86\Debug\CardGame_Project.Form2.resources
+D:\Project\GameProject(Final)\CardGame Project\obj\x86\Debug\CardGame_Project.Properties.Resources.resources
+D:\Project\GameProject(Final)\CardGame Project\obj\x86\Debug\ResGen.read.1.tlog
+D:\Project\GameProject(Final)\CardGame Project\obj\x86\Debug\ResGen.write.1.tlog
