@@ -1,4 +1,4 @@
-## Solitaire-Game
+# Solitaire-Game
 ### The pack
 Virtually all Solitaire games are played with one or more standard 52-card packs. Standard Solitaire uses one 52-card pack.
 
