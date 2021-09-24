@@ -1,14 +1,14 @@
 # Solitaire-Game
-### THE PACK
+### The pack
 Virtually all Solitaire games are played with one or more standard 52-card packs. Standard Solitaire uses one 52-card pack.
 
-### OBJECT OF THE GAME
+### The object of the game
 The first objective is to release and play into position certain cards to build up each foundation, in sequence and in suit, from the ace through the king. The ultimate objective is to build the whole pack onto the foundations, and if that can be done, the Solitaire game is won.
 
-### RANK OF CARDS
+### Rank of cards
 The rank of cards in Solitaire games is: K (high), Q, J, 10, 9, 8, 7, 6, 5, 4, 3, 2, A (low).
 
-### THE DEAL
+### The deal
 There are four different types of piles in Solitaire:
 
 1. The Tableau: Seven piles that make up the main table.
@@ -26,7 +26,7 @@ When starting out, the foundations and waste pile do not have any cards.
 <img src="https://github.com/mandanaGh/Solitaire-Game/blob/main/images/CardGame.jpg" width="600"></p>
 
 
-### THE PLAY
+### The play
 The initial array may be changed by "building" - transferring cards among the face-up cards in the tableau. Certain cards of the tableau can be played at once, while others may not be played until certain blocking cards are removed. For example, of the seven cards facing up in the tableau, if one is a nine and another is a ten, you may transfer the nine to on top of the ten to begin building that pile in sequence. Since you have moved the nine from one of the seven piles, you have now unblocked a face down card; this card can be turned over and now is in play.
 
 As you transfer cards in the tableau and begin building sequences, if you uncover an ace, the ace should be placed in one of the foundation piles. The foundations get built by suit and in sequence from ace to king.
